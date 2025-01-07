@@ -21,7 +21,7 @@ language: 'en'
 - Fixed: Nix build [#853](https://github.com/raphamorim/rio/pull/853).
 - Support for Unicode 16 characters.
 - Support to line height.
-- Renamed `--title` to `--initial-title` on CLI.
+- Renamed `--title` to `--title-placeholder` on CLI.
 - Fixed: Deb package name 'rio' conflicts with existing one in Ubuntu [#876](https://github.com/raphamorim/rio/issues/876).
 - Fixed: Unremovable bottom padding when using line-height [#449](https://github.com/raphamorim/rio/issues/449).
 - On macOS, fixed undocumented cursors (e.g. zoom, resize, help) always appearing to be invalid and falling back to the default cursor.
